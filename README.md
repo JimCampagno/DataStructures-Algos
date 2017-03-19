@@ -4,7 +4,7 @@
 <img src="http://i.imgur.com/AZgPtyf.jpg">
 </p>
 
-Organizing all of the problems I solve from hackerrank.com here.
+Organizing all of the problems I solve from [Hacker Rank](https://www.hackerrank.com/) here in this repo.
 
 I'm including playground files which include the question asked (using markdown and screenshots) along with my solution. If you fork/clone down this repo, you will be able to go through the various playground files to view both the question asked (I took screenshots and embedded them using markdown into the playground file) and solution. As well, you can navigate through the table below.  
 
