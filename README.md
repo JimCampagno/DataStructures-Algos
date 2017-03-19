@@ -4,7 +4,7 @@
 <img src="http://i.imgur.com/AZgPtyf.jpg">
 </p>
 
-Organizing all of the problems I solve from [Hacker Rank](https://www.hackerrank.com/) here in this repo.
+Organizing all of the problems I solve from [Hacker Rank](https://www.hackerrank.com/) here in this repo. Solutions are written in **Swift** (version 3.0.2).
 
 If you fork & clone this repo, the playground files include the question asked (using markdown and screenshots) along with my solution. If you prefer to view the question and solution in a browser, you can navigate through the following table:
 
