@@ -16,6 +16,6 @@ If you fork & clone this repo, the playground files include the question asked (
 
 | Topic | Name | Solution | Difficulty  
 |---|---|---|---|
-| Array | [Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/1.%20Arrays%20-%20DS.playground/Contents.swift)  | 🔵
-| Array | [2D Array-DS](https://www.hackerrank.com/challenges/2d-array) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/2.%202D%20Array%20-%20DS.playground/Contents.swift) | 🔵
-| Array | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/3.%20Left%20Rotation.playground/Contents.swift) | 🔵
+| Array | [Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/1.%20Arrays%20-%20DS.playground/Contents.swift)  | 🔵
+| Array | [2D Array-DS](https://www.hackerrank.com/challenges/2d-array) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/2.%202D%20Array%20-%20DS.playground/Contents.swift) | 🔵
+| Array | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/3.%20Left%20Rotation.playground/Contents.swift) | 🔵
