@@ -19,3 +19,4 @@ If you fork & clone this repo, the playground files include the question asked (
 | Array | [Arrays-DS](https://www.hackerrank.com/challenges/arrays-ds) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/1.%20Arrays%20-%20DS.playground/Contents.swift)  | 🔵
 | Array | [2D Array-DS](https://www.hackerrank.com/challenges/2d-array) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/2.%202D%20Array%20-%20DS.playground/Contents.swift) | 🔵
 | Array | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/3.%20Left%20Rotation.playground/Contents.swift) | 🔵
+| Array | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [link](https://github.com/JimCampagno/DataStructures-Algos/blob/master/arrays/4.%20Dynamic%20Array.playground/Contents.swift) | 🔵
